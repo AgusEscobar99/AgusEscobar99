@@ -35,6 +35,7 @@
 - 📝 trabajo con HTML,CSS,JAVASCRIPT,REACT
 
 - Comunicate conmigo al **aguschevy@gmail.com**
+- 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 - tambien tengo perfil en linkedin **https://www.linkedin.com/in/agustin-escobar-30045724a/**
 - mi perfin de Upwork **https://www.upwork.com/freelancers/~0148ade62d4a05778a**
 
