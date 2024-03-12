@@ -12,8 +12,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png'>
+       alt='Word cloud generated from my GitHub repositories' /></a>
 </div>
 
 
